@@ -6,7 +6,7 @@ background (255,255,255);
 }
 
 function draw() {
-background (255,255,255);
+background (0);
 strokeWeight(mouseX/5);
 stroke (0,0,255);
 line (115,400,215,100);
