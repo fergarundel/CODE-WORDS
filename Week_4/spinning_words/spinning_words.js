@@ -7,6 +7,7 @@ function preload () {
 var spin = 0;
 
 function setup() {
+  cursor('NONE');
   createCanvas (600,600);
   background (255);
   fill (0,0,255);
@@ -19,7 +20,7 @@ function setup() {
 
 function draw() {
   background (255,30);
-  translate (300,300);
+  translate (mouseX,mouseY);
   fill (0,0,255);
   rotate(spin);
   textSize (50);
