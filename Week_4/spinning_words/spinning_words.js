@@ -8,7 +8,7 @@ var spin = 0;
 
 function setup() {
   cursor('NONE');
-  createCanvas (1280,600);
+  createCanvas (1280,800);
   background (255);
   fill (0,0,255);
   angleMode (DEGREES);
