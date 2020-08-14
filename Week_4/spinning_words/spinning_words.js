@@ -8,7 +8,7 @@ var spin = 0;
 
 function setup() {
   cursor('NONE');
-  createCanvas (600,600);
+  createCanvas (1280,600);
   background (255);
   fill (0,0,255);
   angleMode (DEGREES);
@@ -26,6 +26,6 @@ function draw() {
   textSize (50);
   text ('hello world',0,0);
   
-  spin = spin + map(mouseX,0,600,-5,5); // map uses mouses value to change direction of rotation
+  spin = spin + map(mouseX,0,1280,-10,10); // map uses mouses value to change direction of rotation
 }
   
