@@ -10,3 +10,5 @@ Im hoping to take inspiration from Ryoji's use of sound in his works and impleme
 ## Processing Experimentation 
 ![](random_circles.png) 
 Taking inspiration from the sense of atmosphere and immersion that Ryoji creates in his works I tried my hand at incorporating sound into my own work. Figuring out how to add the p5.js sound library was abit of a pain but once I got it working with Firefox (doesn't seem to work on Chrome) I think the outcome works really well using [*'Saline Drip'*](https://bblisss.bandcamp.com/track/saline-drip) an experimental ambient electronic song from Ben Bondy. Have a look at the [*outcome*](https://fergarundel.github.io/CODE-WORDS/week_06/SoundTest/) for youself, just make sure you're not using Chrome.
+
+Next I would really like to experiment using 3D space and maybe implementing the use of a webcam/mic in p5.js, as this is my first time coding I know this is a big undertaking but I'm very interesting in how space and sound can interact in three dimensions.
