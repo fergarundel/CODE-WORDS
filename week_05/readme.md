@@ -1,5 +1,6 @@
 # Club Penguin and Foucault - Week 05
 ## Assignment 02 Submission
+![](submission2.png)
 This week we started the class with sharing the rough cut for our Re-Reading videos, it was amazing to see the work everyone had put into their videos and all the interesting and werid outcomes people managed to create. I was pretty happy with our [*outcome*](https://www.youtube.com/watch?v=hxVLtIr6eNs) too, although in retrospect I would've rathered done the video in a virtual world which allows more creative freedom and control such as Minecraft or Second Life.
 ## Michel Foucault - Of Other Spaces
 ![](foucault.jpg)
