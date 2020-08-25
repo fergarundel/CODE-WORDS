@@ -1,6 +1,6 @@
 # New Beginnings - Week 01
-![](minecraft_world.jpg) 
 ## Virtual Melbourne 
+![](minecraft_world.jpg) 
 As an introduction to the course we we're invited into virtual Melbourne in Minecraft where we discussed the future of reading in the digital age as well as the increasing popularity of virtual worlds partly due to the COVID-19 pandemic.
 ## Initial (A) Sketch
 ![](initial_a.png) 
