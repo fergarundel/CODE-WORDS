@@ -12,12 +12,7 @@ In the break I have started to focus more on typography and ways in which I can 
 This prototype/idea for the major assignment revolves around the gerneral ideas of the text and uses the map I created last week to create an interactive 'map' of the text beginning with HOW MUST WE THINK? and WHAT CAN WE DO? then going through the major points of each of the sub-sections. I think this relatively basic idea if executed well could be very visually compelling and immersive. However with the idea being quite basic, the outcome could be relatively boring in terms of what I am able to create with other concepts.
 
 ### Second Prototype - FREE INTERNATIONAL UNIVERSITY
+![](prototype2.gif)
+
 With this concepts I have focused on a certain section of the reading, Beuys call for a FREE INTERNATIOAL UNIVERSITY. Beuys states the University to be a place which "includes all the groups and live cells in our society in which people have banded together to think through the questions of the future of our society together". This collective thinking and communication is the key idea behind my second prototype which uses cells formed together to spell out words and sentences from the text, with the canvas beginning with a randomly generated array of cells. This technique will be used together with interactive sound design to create a fully immersive experience for the user. Below are some of the rough sketches I have created to outline this idea.
 
-![](1.jpg)
-![](2.jpg)
-![](3.jpg)
-![](4.jpg)
-![](5.jpg)
-![](6.jpg)
-![](7.jpg)
