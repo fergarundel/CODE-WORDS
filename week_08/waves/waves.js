@@ -19,9 +19,9 @@ function draw() {
   stroke (0,0,volume*1000);
   strokeWeight (volume*7);
   
- let x1 = cos (radians(frameCount)) * 250;
+ let x1 = cos (radians(frameCount)) * 500;
  let y1 = sin (radians(frameCount)) * 250;
- let x2 = sin (radians(frameCount)) * 250;
+ let x2 = sin (radians(frameCount)) * 500;
  let y2 = cos (radians(frameCount)) * 250;
  
  line (x1,y1,x2,y2);
