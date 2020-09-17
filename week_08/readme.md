@@ -7,7 +7,7 @@ In last weeks class we were shown through how to recieve a input level from a so
 ## Frequency Visualiser
 ![](b2_screen.png)
 
-Continuing on from using the Amplitude as a value in my sketch, I explored using FFT, [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform), as a method to create visually appealing outcomes. Using a video from [*The Coding Train*](https://www.youtube.com/watch?v=2O3nm0Nvbi4&t=1s&ab_channel=TheCodingTrain) as a template [*my outcome*](https://fergarundel.github.io/CODE-WORDS/week_08/waves2/), as shown above, is quite basic and rudimentary in terms of what can be achieved using this function. I will also continue to experiment with this in the future as  a way to create interaction between visual and audio elements.
+Continuing on from using the Amplitude as a value in my sketch, I explored using FFT, [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform), as a method to create visually appealing outcomes. Using a video from [*The Coding Train*](https://www.youtube.com/watch?v=2O3nm0Nvbi4&t=1s&ab_channel=TheCodingTrain) as a template [*my outcome*](https://fergarundel.github.io/CODE-WORDS/week_08/freq/), as shown above, is quite basic and rudimentary in terms of what can be achieved using this function. I will also continue to experiment with this in the future as  a way to create interaction between visual and audio elements.
 
 ## Frequency Visualer continued 
 ![](frequency_screen.png)
