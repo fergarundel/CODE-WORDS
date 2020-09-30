@@ -6,7 +6,7 @@ Using The Coding Train's [*video*](https://www.youtube.com/watch?v=4hA7G3gup-4&a
 
 ![](appeal.png)
 
-### Vehicle Class taken from Daniel Shiffman
+### Code used from Coding Train video and modified using Classes 
 
 ``` javascript
 class Vehicle {
