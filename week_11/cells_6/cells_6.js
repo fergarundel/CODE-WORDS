@@ -54,7 +54,7 @@ function loopingText (){
   });
   
     if (index > words.length - 1){
-    for (let i = 0; i < vehicle.length; i++){
+    for (let i = 0; i < vehicles.length; i++){
      vehicles[i].target.x = random(width);
      vehicles[i].target.y = random(height);
       }
