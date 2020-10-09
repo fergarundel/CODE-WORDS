@@ -60,7 +60,7 @@ function loopingText (){
       }
     }
 
-  if (cells.length < vehicles.length){
+  else if (cells.length < vehicles.length){
     vehicles.splice(cells.length -1, vehicles.length - cells.length);
   
   for (let i = 0;i < cells.length; i++){
