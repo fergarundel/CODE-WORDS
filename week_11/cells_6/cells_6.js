@@ -26,7 +26,7 @@ function setup() {
 
 function draw() {
   background (255,0,0);
-
+  
   if (on){
     loopingText();
   }
@@ -37,7 +37,6 @@ function draw() {
     vehicle.update();
     vehicle.show(3);
     }  
-    
   }
   
  function mousePressed(){
@@ -53,16 +52,15 @@ function loopingText (){
   let cells = font.textToPoints(words[index],posx,posy,width/10,{ 
      sampleFactor: 0.1
   });
-    
-     for (let i = 0; i < frameCount; i++){
-      if (frameCount == 50 * i + 50){
-      index++;
-        } 
+  
+    if (index > words.length - 1){
+    for (let i = 0; i < vehicles.length; i++){
+     vehicles[i].target.x = random(width);
+     vehicles[i].target.y = random(height);
       }
-    
-  if (index < words.length){
-  if (cells.length < vehicles.length){
+    }
 
+  else if (cells.length < vehicles.length){
     vehicles.splice(cells.length -1, vehicles.length - cells.length);
   
   for (let i = 0;i < cells.length; i++){
@@ -84,13 +82,12 @@ function loopingText (){
     for (let i = 0; i < cells.length; i++){
       vehicles[i].target.x = cells[i].x;
       vehicles[i].target.y = cells[i].y;
-      }
     }
-   else if (index > words.length){
-     for (let i = 0; i < vehicles.length; i++){
-     vehicles[i].target.x = random(width);
-     vehicles[i].target.y = random(height);    
-    }
+  }
   
-}
+    for (let i = 0; i < frameCount; i++){
+      if (frameCount == 200 * i + 200){
+      index++;
+    } 
+   }
   }
