@@ -62,7 +62,7 @@ function loopingText (){
 
     }
 
-  else if (cells.length < vehicles.length){
+  else if (cells.length > vehicles.length){
 
     
     
