@@ -59,8 +59,6 @@ function loopingText (){
       index++;
         } 
       }
-
-}
     
   if (index < words.length){
   if (cells.length < vehicles.length){
@@ -88,10 +86,11 @@ function loopingText (){
       vehicles[i].target.y = cells[i].y;
       }
     }
-  } else if (index > words.length){
+   else if (index > words.length){
      for (let i = 0; i < vehicles.length; i++){
      vehicles[i].target.x = random(width);
      vehicles[i].target.y = random(height);    
     }
   
 }
+  }
