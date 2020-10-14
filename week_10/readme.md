@@ -53,3 +53,7 @@ Although I do like how the sketch is looking with the blue and white, the calmin
 ![](red2.png)
 
 ![](red3.png)
+
+![](black.png)
+
+Black also gives a very stripped back / atmospheric aesthetic to the sketch and could pair well with the subject matter, especially when accompainied with sound.
