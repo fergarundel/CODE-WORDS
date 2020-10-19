@@ -1,4 +1,4 @@
-# Work in Progress - Week 09
+# TextToPoints() - Week 09
 ## Flocking Experimentation
 This week I started to have a better look at what is going to form the main structure of my Major Assignment, a flocking system, which moves cells to certain points on the screen to form words and phrases from Joseph Beuys, An Appeal for an Alternative. This is a way of interpretating his call for the Free International University as a place for people to communicate and work through the worlds crises (Military, Ecological, Economic, Consciousness). 
 
