@@ -17,3 +17,8 @@ Next I would really like to experiment using 3D space and maybe implementing the
 Using an excert from Foucault's, [*'Of Other Spaces'*](https://web.mit.edu/allanmc/www/foucault1.pdf),  I have continued to experiment in Processing with conditional statements creating a [*bouncing text box*](https://fergarundel.github.io/CODE-WORDS/week_06/foucault_test/) that will change colour whe the mouse is hovering over the dimensions of the box. Although it is a simple Processing sketch you can see how this can be incorporated into the final assignment, with text objects being interacted with and changing properties. The code can probably be cleaned up using objects but it works for now and doesn't look too messy, however that is something I will have to think about when starting my final outcome.
 
 ![](bouncing.gif) 
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_05/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_07/)
+
