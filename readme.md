@@ -1,6 +1,6 @@
 ![](screen.png)
 
-# CODE+WORDS
+---
 
 ## Studio Knowledge Object
 
@@ -16,6 +16,12 @@
 ### [Week 10 - Work in Progress](https://fergarundel.github.io/CODE-WORDS/week_10/)
 ### [Week 11 - Email Threads](https://fergarundel.github.io/CODE-WORDS/week_11/)
 ### [Week 12 - Final Presentations](https://fergarundel.github.io/CODE-WORDS/week_12/)
+
 ---
 ## Final Outcome
+
 ### [Free International University](https://fergarundel.github.io/CODE-WORDS/week_12/cells_final/)
+
+![](homepage.gif)
+
+---
