@@ -25,6 +25,8 @@ New starting position:
 
 ### Colour
 
+![](black_red.jpg)
+
 So far I have been using a red background in order to symbolise the urgency of Beuys' message, however I think the black background can be used to create a more effective and immersive atmosphere, especially when (hopefully) paired with sound. So a more stripped back black and white colour scheme with be what I will present my final outcome in.
 
 ### Typography
