@@ -37,6 +37,4 @@ As suggested by Andy last week, I looked into single line fonts and how they wou
 
 ## Sound Design
 
-![](benbondy.jpg)
-
 The last step in my outcome was sound, in order to create an atmospheric environment where the outcome can live, the sound will have to immerse the user, using layering to create dynamic change when the cells are moving. For the background sound I wanted to have a [*droning sound*](http://soundimage.org/wp-content/uploads/2016/08/Dystopic-City-Drone.mp3) which can loop continuously in the background in order to build this slightly tense ambience. For the transition period I decided upon the beginning few seconds of Ben Bondy's [*Eeon*](https://bblisss.bandcamp.com/track/eeon), I have used Ben Bondy's work previously in my initial [*sound test*](https://fergarundel.github.io/CODE-WORDS/week_06/SoundTest/). This electronic ambience created through this snippet is one of my favourite things about the whole sketch. Lastly for the movement of cells within the sentence I used a [*low bass kick*](https://freesound.org/people/kbeezy88/sounds/501757/) to signify the change in text. All together I think they accompany each other really well and help tie the sketch together.
