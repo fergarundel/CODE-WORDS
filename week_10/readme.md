@@ -1,6 +1,6 @@
 # Work in Progress - Week 10 
 ## Continuing with Flocking
-![](text2.gif)
+![](blue.gif)
 
 Last week I began to experiment with a flocking (or steering) system that would allow me to draw a word or phrase out of points using the textToPoints function. This week I continued that experiment to be able to cycle through text using a lot of help from the sketch [*particle clock*](https://www.openprocessing.org/sketch/448956). By either splicing or pushing additional cells into the array I was able create a looping phrase, which I plan to be the beginning of my digital reading. This weeks outcome [*here*](https://fergarundel.github.io/CODE-WORDS/week_10/cells_5/).
 
