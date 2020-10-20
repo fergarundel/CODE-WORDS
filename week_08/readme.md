@@ -13,3 +13,7 @@ Continuing on from using the Amplitude as a value in my sketch, I explored using
 ![](frequency_screen.png)
 
 Again continuing to use FFT, I merged the ideas of the two sketches to form [*this outcome*](https://fergarundel.github.io/CODE-WORDS/week_08/frequency/) which uses the inputs bass and treble frequency to change the colour of the line, with red being the low frequency sound and blue representing the high range. This creates an interesting affect when paired with the Amplitude value controlling the thickness of the line. Using Github pages I have found that the audio quality of each sketch has been manipulated with an downgraded quite severely, I will have to explore other options in publishing work online which doesn't have this effect on the quality of the outcome.
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_07/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_09/)
