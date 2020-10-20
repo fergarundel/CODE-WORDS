@@ -15,3 +15,8 @@ This prototype/idea for the major assignment revolves around the gerneral ideas 
 ![](prototype2.gif)
 
 With this concepts I have focused on a certain section of the reading, Beuys call for a FREE INTERNATIOAL UNIVERSITY. Beuys states the University to be a place which "includes all the groups and live cells in our society in which people have banded together to think through the questions of the future of our society together". This collective thinking and communication is the key idea behind my second prototype which uses cells formed together to spell out words and sentences from the text, with the canvas beginning with a randomly generated array of cells. This technique will be used together with interactive sound design to create a fully immersive experience for the user. Below are some of the rough sketches I have created to outline this idea.
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_06/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_08/)
+
