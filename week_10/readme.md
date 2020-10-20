@@ -46,17 +46,9 @@ Using the frameCount I am able to increase the index every 200 frames, this work
 
 ## Styling 
 
-Although I do like how the sketch is looking with the blue and white, the calming aspect of the background colour doesn't fit the urgentness of the reading. Bueys calls for a revolution to the structures of our society and this blue doesn't quite suit that call to arms. Experimenting with different types of red colour combinations I think this will be a better fit for the text. 
+Although I do like how the sketch is looking with the blue and white, the calming aspect of the background colour doesn't fit the urgentness of the reading. Bueys calls for a revolution to the structures of our society and this blue doesn't quite suit that call to arms. Experimenting with different types of red colour combinations I think this will be a better fit for the text. Black also gives a very stripped back / atmospheric aesthetic to the sketch and could pair well with the subject matter, especially when accompainied with sound.
 
-![](red1.png)
-
-![](red2.png)
-
-![](red3.png)
-
-![](black.png)
-
-Black also gives a very stripped back / atmospheric aesthetic to the sketch and could pair well with the subject matter, especially when accompainied with sound.
+![](colour.jpg)
 
 ---
 
