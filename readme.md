@@ -1,4 +1,4 @@
-![](screen.png)
+![](homepage.gif)
 
 ---
 
@@ -24,6 +24,5 @@
 
 ---
 
-![](homepage.gif)
 
 
