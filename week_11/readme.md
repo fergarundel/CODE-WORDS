@@ -31,7 +31,7 @@ Then another setTimeout is placed in the loopingText function which calls upon t
      setTimeout (loopingText,3000);
 ```
      
-As the setTimeout function uses milliseconds to trigger the event I didn't need to rely upon frameCount to change the cells from one word to another. This allowed the cells to be randomised when i triggered the event through mousePressed, I think this works alot better than at the end of the phrase as this allows the user to go through the text at their own pace.
+As the setTimeout function uses milliseconds to trigger the event I didn't need to rely upon frameCount to change the cells from one word to another. This allowed the cells to be randomised when i triggered the event through mousePressed, I think this works alot better than at the end of the phrase as this allows the user to go through the text at their own pace. Try the outcome [*here*](https://fergarundel.github.io/CODE-WORDS/week_11/cells_11/)
 
 ![](working1.gif)
 
