@@ -41,5 +41,5 @@ The last step in my outcome was sound, in order to create an atmospheric environ
 
 ---
 
-### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_11/)
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_11/) - [[Final Outcome]](https://fergarundel.github.io/CODE-WORDS/week_12/cells_final/)
 
