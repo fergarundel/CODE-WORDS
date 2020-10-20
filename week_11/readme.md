@@ -35,6 +35,20 @@ As the setTimeout function uses milliseconds to trigger the event I didn't need 
 
 ![](working1.gif)
 
+## Changing Sentences
+
+Making the sketch change sentences was achieved through using an array to hold the variable of each sentence, this allowed to use mousePressed to increase the sentenceIndex of the array, in turn going to the next sentence. Code is shown below;
+
+```Javascript
+let text0 = 'FREE, INTERNATIONAL, UNIVERSITY';
+let text1 = 'MILITARY THREAT, ECOLOGICAL CRISIS, ECONOMIC CRISIS, CONSCIOUSNESS CRISIS';
+let text2 = 'THE PROCESS, OF RECASTING ,HARDENED CONCEPTS, IS UNDER WAY, IT HAS LED TO A, BIG DIALOGUE.';
+let text3 = 'THE UNIVERSITY ,INCLUDES ALL THE, GROUPS AND LIVE CELLS, IN OUR SOCIETY ,IN WHICH PEOPLE HAVE, BANDED TOGETHER, TO THINK THROUGH ,THE QUESTIONS ,OF THE FUTURE OF OUR ,SOCIETY TOGETHER.';
+let sentences = [text0, text1, text2, text3];
+
+let words = sentences[sentenceIndex].split(',');
+```
+
 ## Troubleshooting
 
 No that I have the overall structure of the work completed I need to start to refine it. Firstly, I'm not happy with how the internal setTimeout calls every 3 seconds without taking into account when the mouse was pressed. As you can see above, if you press the mouse just as the 3 second counter is about to reset the cells it creates an awkward transition. The cells begin to go to random area on the canvas then immediately form the new word without ever reaching the intial random target.  Searching stackoverflow I found a [*solution*](https://stackoverflow.com/questions/1472705/resetting-a-settimeout) to my problem.
