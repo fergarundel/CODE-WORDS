@@ -8,3 +8,8 @@ Continuing on with the semester I searched the wonderfully curated [*online read
 
 ![](think.jpg)
 ![](do.jpg)
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_04/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_06/)
+
