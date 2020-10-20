@@ -21,10 +21,20 @@ New starting position:
 ```
 ![](start.gif)
 
-## Styling 
+## Styling Decisions
+
+### Colour
 
 ![](red_black.jpg)
 
 So far I have been using a red background in order to symbolise the urgency of Beuys' message, however I think the black background can be used to create a more effective and immersive atmosphere, especially when (hopefully) paired with sound. So a more stripped back black and white colour scheme with be what I will present my final outcome in.
+
+### Typography
+
+![](type.jpg)
+
+As suggested by Andy last week, I looked into single line fonts and how they would work in my sketch. The one above on the right called [*Dotline*](https://www.fontspace.com/dotline-font-f6023) was one which I found interesting, however I think that the thinness of the lines make it look delicate and frail, making it not suitable for Beuys call for social revolution. I have decided to stick with the classic Helvetica, which in a way is an "International" font, being used all over the world. What I would've liked to look into was making the typography truely international with [*Google's Noto Fonts8](https://www.google.com/get/noto/). Noto fonts aims to support all languages (currently supporting 582 from 237 regions), with this ability I would like to look into making the text language randomly generated each time you enter the site in order to signifiy the International aspect of Beuys' text. Unfortunately, I wont have time to add this into my outcome, however it is something I could further refine later.
+
+## Sound Design
 
 
