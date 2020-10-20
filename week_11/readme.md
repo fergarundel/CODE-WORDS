@@ -79,3 +79,8 @@ Using setTimeout and setInterval as variables allowed me to clear and reset the 
 
 ![](screen2.gif)
 
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_10/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_12/)
+
+
