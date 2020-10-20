@@ -22,6 +22,8 @@
 
 ### [Free International University](https://fergarundel.github.io/CODE-WORDS/week_12/cells_final/)
 
+---
+
 ![](homepage.gif)
 
----
+
