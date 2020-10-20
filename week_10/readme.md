@@ -57,3 +57,8 @@ Although I do like how the sketch is looking with the blue and white, the calmin
 ![](black.png)
 
 Black also gives a very stripped back / atmospheric aesthetic to the sketch and could pair well with the subject matter, especially when accompainied with sound.
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_09/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_11/)
+
