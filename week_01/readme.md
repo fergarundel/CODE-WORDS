@@ -6,3 +6,4 @@ As an introduction to the course we we're invited into virtual Melbourne in Mine
 ![](initial_a.png) 
 After playing around with Processing and p5.js for the first time and experimenting with the mouseX and mouseY variables I created an [*interactive design*](https://fergarundel.github.io/CODE-WORDS/week_01/Initial_A/) (A) using lines and strokeWeight. I found it really fun playing around with the software for the first time and am looking forward to exploring what else I can create.
 
+### [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_02/)
