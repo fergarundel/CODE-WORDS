@@ -5,3 +5,7 @@ This week type was introduced to our sketches, using the preload() function we w
 ## Virtual World continued
 ![](club_penguin.png)
 As a group we continued to experiment with what we can achieve in our virtual world, Club Penguin. We quickly discovered that the world was very limited in what we can customize and create, something that we will have to work with going forward. We came upon the idea of using the ingame minigames to symbolise certain sections of the text such using the minecart game for Johnny's panic attack.
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_03/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_05/)
