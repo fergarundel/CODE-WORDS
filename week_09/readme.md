@@ -102,3 +102,8 @@ With continuing this sketch I will have to find a way make the text change and m
 ![](audiovisual.jpeg)
 
 Alva Noto is a German artist who intertwines the audio and visual aspects of his work creating atmospheric live sets and mesmorising music videos. His visuals used at his [*concerts*](https://www.youtube.com/watch?v=Y_-hKHbO-GE&ab_channel=Manchine) and [*other projects*](https://www.youtube.com/watch?v=MkyufPrxdiA&ab_channel=bacteriasleep) interacts with his music similar to Ryoji Ikeda. This is something I will be trying to incorporate into my sketches in the future to add an atmospheric and more organic feel to my work. The audio aspect of my work will be connected to the movement of the cells when forming new phrases and words making the cells seem more alive and dynamic.
+
+---
+
+### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_08/) - [[Next Week]](https://fergarundel.github.io/CODE-WORDS/week_10/)
+
