@@ -4,6 +4,8 @@
 
 ## Studio Knowledge Object
 
+Welcome! This repository documents the work done within the CODE+WORDS studio this semester. Experimenting with code and language to create compelling digital outcomes. The repository is organised in weeks that archive the relevant work and resources used in the course.
+
 ### [Week 01 - New Beginnings ](https://fergarundel.github.io/CODE-WORDS/week_01/)
 ### [Week 02 - Modular](https://fergarundel.github.io/CODE-WORDS/week_02/)
 ### [Week 03 - Electronic Literature](https://fergarundel.github.io/CODE-WORDS/week_03/)

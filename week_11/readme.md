@@ -16,7 +16,7 @@ Continuing on from last week's sketch I tried to incorporate a function that wou
     }
 ```
 
-In order to set the cells target x and y at a random width and height. I found this didn't work due to, as Karen put it, an error of logic. As there is no more words in the array, there is no need for cells so they cannot then be moved to random places. After a few more attempts and alot of help from Karen, I tried to implement a settimeout() function which would allow me to only call upon the loopingText function in my code when needed (when cells need to be changed).
+In order to set the cells target x and y at a random width and height. I found this didn't work ([*shown here*](https://fergarundel.github.io/CODE-WORDS/week_11/cells_6/)) due to , as Karen put it, an error of logic. As there is no more words in the array, there is no need for cells so they cannot then be moved to random places. After a few more attempts and alot of help from Karen, I tried to implement a settimeout() function which would allow me to only call upon the loopingText function in my code when needed (when cells need to be changed).
 
 Inital setTimeout is called in mousePressed:
 
