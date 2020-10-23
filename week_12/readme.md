@@ -51,14 +51,6 @@ These groups in our society are expressed in the digital space through white cel
 
 [See the class' outcomes here](https://simandy.github.io/codewords/)
 
-## Reflection
-
-Starting this studio with no coding experience it has introduced me into a world which I wasn’t fully aware of. The intersection between design and code has been well and truly opened to me and the value of this skill has also been made clear. Designers who can code and Coders who can design are able to explore and experiment with a variety of different media and technologies, opening them up to new opportunities which aren’t available for those who don’t embrace and learn these new (for me) technologies. 
-
-This multi-disciplinary approach to design which is explored in the studio and demonstrated by Andy and Karen has sparked something in my brain. The ability of code to compliment and work with design to create such interesting and varied outcomes is something that I am excited to continue to explore and experiment with going into my final year and hopefully beyond. Along with this introduction to the creative coding world, the importance placed upon reading has also resonated with me. As how we read continues to change, I find it important to continue this valuable habit to discover and learn from others in such an exciting and wide-ranging field. 
-
-Reflecting on the studio as a whole I just want to thank Andy and Karen for all the effort they have put into making the studio so engaging and entertaining while creating such a welcoming atmosphere for their online lessons. Thankyou <3
-
 ---
 
 ### [[Previous Week]](https://fergarundel.github.io/CODE-WORDS/week_11/) - [[Final Outcome]](https://fergarundel.github.io/CODE-WORDS/week_12/cells_final/)
