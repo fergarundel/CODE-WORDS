@@ -24,6 +24,8 @@ Welcome! This repository documents the work done within the CODE+WORDS studio th
 
 ### [Free International University](https://fergarundel.github.io/CODE-WORDS/week_12/cells_final/)
 
+An audio-visual interpretation of artist Joseph Beuys’ call to arms. The Free International University is a place for conversation and non-violent action, formed from cells in our society to think through the questions of our future.
+
 ---
 
 
